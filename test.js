@@ -2066,4 +2066,4 @@ client.on("guildMemberAdd", (member) => {
  
  
  
-client.login("NTA5MDM0OTAzMDUzMDA4OTE2.DsH75w.JZztzONJSejvweKqXggL8F_QxfU");
+client.login("NzMyNzkyODc4ODg3MzM4MDI0.Xw5xbQ.8_yPKeXtoXlRjSaZollQnmmcoiA");
